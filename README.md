@@ -14,8 +14,3 @@ Para fazer o upload do sketch siga os passos:
   * Selecione o tipo da placa como Arduino Leonardo
     * No menu superior da IDE vá em: **Tools** > **Board** > **Arduino Leonardo**
   * Clique no botão Upload
-
-### Lista de comandos do Wearable
-
-Veja a lista de comandos [link](https://github.com/telefonicadigital/kit-iot-wearable/wiki/Comandos-do-Wearable)
-
